@@ -26,3 +26,5 @@ go.sum
 # Ignore the build artifacts
 bin/
 build/ 
+
+**/*.txt
